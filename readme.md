@@ -1,6 +1,6 @@
 originally written a long long time ago. 2011? maybe.
 
-# TO RUN
+### TO RUN
 ```
 (8puzzle n)
 ```
